@@ -1,5 +1,4 @@
-Word Counter Plugin
-Opis
+
 Word Counter Plugin to wtyczka WordPress, która dodaje licznik słów, liter oraz szacowany czas czytania do każdego posta na Twojej stronie. Informacje te są wyświetlane na dole lub na górze posta, a także dostępne w sekcji ustawień w panelu administracyjnym WordPressa.
 
 Funkcje
